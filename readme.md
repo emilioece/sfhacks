@@ -1,104 +1,104 @@
-# SF Hacks Handbook
+# sf hacks handbook
 
-## Event Information
+## event information
 
-### April 4
-- **2:00 PM** - Check-in (Bring ID & QR code)
-- **3:30 PM** - Opening Ceremony
-- **7:30 PM** - Dinner (Costco Pizza)
-- **10:30 PM** - Doors Close *(Can't go back in until morning)*
-    - **Sleeping Room Opens** (Behind Stage)
+### april 4
+- **2:00 pm** - check-in (bring id & qr code)
+- **3:30 pm** - opening ceremony
+- **7:30 pm** - dinner (costco pizza)
+- **10:30 pm** - doors close *(can't go back in until morning)*
+    - **sleeping room opens** (behind stage)
 
-### April 5
-- **8:00 AM** - Doors Open
-- **9:00 AM** - Breakfast (Dunkin')
-- **1:15 PM** - Lunch (Panda Express)
-- **8:00 PM** - Dinner (Costco Pizza)
-- **10:30 PM** - Doors Close *(Can't go back in until morning)*
-    - **Sleeping Room Opens** (Behind Stage)
+### april 5
+- **8:00 am** - doors open
+- **9:00 am** - breakfast (dunkin')
+- **1:15 pm** - lunch (panda express)
+- **8:00 pm** - dinner (costco pizza)
+- **10:30 pm** - doors close *(can't go back in until morning)*
+    - **sleeping room opens** (behind stage)
 
-### April 6
-- **8:00 AM** - Doors Open
-- **9:00 AM** - Breakfast (Dunkin')
-- **10:00 AM** - Devpost Soft Deadline
-- **11:00 AM** - Project Submission Deadline
-- **11:30 AM** - Judging
-- **1:30 PM** - Lunch (Ike's Sandwiches)
-- **3:00 PM** - Closing Ceremony (Winners Announced)
+### april 6
+- **8:00 am** - doors open
+- **9:00 am** - breakfast (dunkin')
+- **10:00 am** - devpost soft deadline
+- **11:00 am** - project submission deadline
+- **11:30 am** - judging
+- **1:30 pm** - lunch (ike's sandwiches)
+- **3:00 pm** - closing ceremony (winners announced)
 
-**End:** April 6, 4:00 PM
-
----
-
-## Theme: Tech for Good
-- **Goal:** Meaningful impact on society
+**end:** april 6, 4:00 pm
 
 ---
 
-## Tracks
-
-### Best Startup Pitch Track
-- **Requirements:** One business major teammate, a pitch deck (?)
-- **Prize:** $1,000 seed funding
+## theme: tech for good
+- **goal:** meaningful impact on society
 
 ---
 
-## What to Bring
+## tracks
 
-### Technical Equipment
-- Laptop + Charger
-- Hardware setup (Arduino & Digital Circuit Board provided)
-
-### Personal Items
-- Cold Weather Clothes
-- School ID
-- Hygiene Products
-- Change of Clothes
-- Pajamas
-- Reusable Water Bottle ($)
-
-### Sleeping Gear
-- Sleeping Bag
+### best startup pitch track
+- **requirements:** one business major teammate, a pitch deck (?)
+- **prize:** $1,000 seed funding
 
 ---
 
-## Hackathon Rules
-- You can use an idea you've had before the event.
-- Hacks don't have to be innovative; judging is based on the quality of the hack.
-- You can work on an idea you've done before, but **don't reuse code**.
+## what to bring
+
+### technical equipment
+- laptop + charger
+- hardware setup (arduino & digital circuit board provided)
+
+### personal items
+- cold weather clothes
+- school id
+- hygiene products
+- change of clothes
+- pajamas
+- reusable water bottle ($)
+
+### sleeping gear
+- sleeping bag
 
 ---
 
-## Demos
-- **Live Demos**: After submissions, you will present to the judges.
+## hackathon rules
+- you can use an idea you've had before the event.
+- hacks don't have to be innovative; judging is based on the quality of the hack.
+- you can work on an idea you've done before, but **don't reuse code**.
 
 ---
 
-## Judging Criteria
-- **Idea**: How well does it align with the theme and track?
-- **Implementation**: Are all features working? Complexity of the project/features.
-- **Design**: Is the user interface intuitive? Does the design lead users to different features? Is the project scalable?
-- **Presentation**: Why is your project important? What problem are you solving? What challenges did you face, and how did you overcome them? Explain the features.
-- **Track Application**: How well does your project fit within the track? Did you address relevant challenges or work with the track's focus?
+## demos
+- **live demos**: after submissions, you will present to the judges.
 
 ---
 
-### ~ Additional Judging Criteria
-- Fully functional, large-scale project.
-- Complexity of code.
+## judging criteria
+- **idea**: how well does it align with the theme and track?
+- **implementation**: are all features working? complexity of the project/features.
+- **design**: is the user interface intuitive? does the design lead users to different features? is the project scalable?
+- **presentation**: why is your project important? what problem are you solving? what challenges did you face, and how did you overcome them? explain the features.
+- **track application**: how well does your project fit within the track? did you address relevant challenges or work with the track's focus?
 
 ---
 
-## Mentoring
-- Find someone from the industry (volunteers are also available).
+### ~ additional judging criteria
+- fully functional, large-scale project.
+- complexity of code.
 
 ---
 
-## Showers
-- **Mashouf Wellness Center**: $10 fee.
+## mentoring
+- find someone from the industry (volunteers are also available).
 
 ---
 
-## Venue
-- **Location**: Student Life Events Center / Annex I
+## showers
+- **mashouf wellness center**: $10 fee.
+
+---
+
+## venue
+- **location**: student life events center / annex i
 
