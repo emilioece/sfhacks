@@ -83,7 +83,7 @@
 
 ---
 
-### ~ additional judging criteria
+### ¬  additional judging criteria ( not being judged on)
 - fully functional, large-scale project.
 - complexity of code.
 
